@@ -4,3 +4,4 @@ En este proyecto, me encuentro practicando el manejo de versiones de proyectos m
 Favor no tocar el README
 Katherine Torres va a constribuir en el project
 Katherine torres presente en el project
+Me pase a la rama local development
